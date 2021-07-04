@@ -1,0 +1,59 @@
+h1 {
+  color: cornflowerblue;
+  font-family: 'Bona Nova', serif;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 1px 1px 1px darkcyan;
+  padding: 10px 10px;
+  margin: 0;
+}
+h2 {
+   color: cornflowerblue;
+   font-family: 'Bona Nova', serif;
+   font-style: normal;
+   font-size: 45px;
+   text-align: center;
+   margin: 10;
+   padding: 10px 10px;
+}
+h3 {
+    color: cornflowerblue;
+    font-family: 'Bona Nova', serif;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    margin: 10;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px dotted hotpink;
+    background-color: honeydew;
+    padding: 20px;
+}
+p, ul {
+   color: cornflowerblue;
+   font-family: 'Bona Nova', serif;
+   font-size: 25px;
+   line-height: 1.25;
+   letter-spacing: 1px;
+   text-align: justify;
+}
+html {
+   background-color: rgb(243, 238, 222);
+   
+}
+body {
+   width: 900px;
+   background-color: aliceblue;
+   text-align: center;
+   padding-top: 100px;
+   padding-right: 100px;
+   padding-left: 100px;
+   padding-bottom: 15px;
+   margin: 25px;
+   border: 20px solid rgb(0, 0, 0);
+}
+img {
+    width: 800px;
+    align-self: auto;
+}
